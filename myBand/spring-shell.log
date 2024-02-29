@@ -1,0 +1,65 @@
+1702895550819:add turneu 'aaa' 'tandarei' 2023 10 10 2023 11 11
+1702895561609:find turnee
+1702895618044:add manager 'Vasile' 'Petrica'
+1702895642590:add trupa 'Satra' 2015 1
+1702895675120:all trupe
+1702895679962:find turnee
+1702895726499:add trupa 'Satra' 2015 1
+1702895773385:add concert 'SuperSuper' 2023 10 23 1 1
+1702895780808:all conecrts
+1702895786350:all concerts
+1702895873641:add instrument 'flaut' 'instrument de suflat'
+1702895877605:all instruments
+1702895971359:assign to concert 1 1
+1702896010953:add merch 'tricou satra' 100 20 1
+1702896014633:find merch
+1702896040268:add album 'OSOD 2' 2015 1
+1702896048973:find albums
+1702896073479:add fan club 'satra benzito' 1
+1702896113153:add piesa 'satra se intoarce' 3 1
+1702896116261:all piese
+1702896134963:add recenzie 7 'super sanky' 1
+1702896137994:all recenzii
+1702896141826:all recenzie
+1702896152546:all recezii
+1702896205036:add club 'satra benzito' 1
+1702896249956:all clubs
+1702896256115:add club 'satra benzito' 1
+1702896261238:all clubs
+1702896294261:add fan 'Gabi' 'Zori'
+1702896349257:add fan 'gabi' 'zori'
+1702896411656:add fan 'zori' 'gabi'
+1702896469566:all fans
+1702896476310:add fan 'zori' 'gabi'
+1702896576940:stacktrace
+1702896653106:add fan 'zori' 'gabi'
+1702897006675:add fan 'gabi' 'zorel'
+1702897029509:delete fan 1
+1702897084436:all fans
+1702897090238:delete fan 1
+1702897159410:all fans
+1702897173404:find tunree
+1702897178182:find turnee
+1702897198845:add turneu 'sepic' 'tandarei' 2023 10 10 2023 11 11
+1702897216937:delete turneu 1
+1702897233187:delelte turneu 1
+1702897462829:find turnee
+1702897472634:delete turneu 1
+1702897477542:find turnee
+1702897501574:add turneu 'satra' 'tandarei' 2023 10 10 2023 11 11
+1702897523364:update turneu 2 'satra' 'tandarei' 2023 10 10 2023 11 15
+1702897529525:find turnee
+1702897687852:add manager 'vasile' 'pop'
+1702897702715:add trupa 'satra' 2015 1
+1702897727665:add instrument 'suflat' 'super smecher de sufli'
+1702897760371:add turneu 'sepic' 'tandarei' 2023 11 11 2023 11 11
+1702897820688:add concert 'aiaia' 2023 11 11 52 1
+1702897836917:assign to concert 1 1
+1702898077240:delete instrument 1
+1702898334501:all instruments
+1702898349046:add instrument 'suflat' 'super smecher sanky'
+1702898368648:find trupa
+1702898370950:find trupe
+1702898372645:all trupe
+1702898972795:find turnee
+1702898994870:add turneu 'aiaia' 'bai' '2023-10-10' '2023-11-11'
